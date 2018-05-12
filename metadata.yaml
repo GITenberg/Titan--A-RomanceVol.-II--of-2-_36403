@@ -1,0 +1,42 @@
+_repo: Titan--A-RomanceVol.-II--of-2-_36403
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Brooks, Charles Timothy
+    aliases:
+    - Aquidneck
+    - Brooks, Charles T.
+    - Brooks, C. T. (Charles Timothy)
+    birthdate: 1813
+    deathdate: 1883
+    gutenberg_agent_id: '5536'
+    url: http://www.gutenberg.org/2009/agents/5536
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jean Paul
+    aliases:
+    - Richter, Johann Paul Friedrich
+    - Paul, Jean
+    - Richter, Jean Paul Friedrich
+    birthdate: 1763
+    deathdate: 1825
+    gutenberg_agent_id: '32901'
+    url: http://www.gutenberg.org/2009/agents/32901
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Paul
+description: ''
+gutenberg_issued: '2011-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36403'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+title: 'Titan: A Romance. v. 2 (of 2)'
+url: http://www.gutenberg.org/ebooks/36403
